@@ -53,7 +53,16 @@ Still, there are some peculiarities that differentiate a bot from a regular work
 
 <p>The tasks outlined above may seem like they mostly cover clerical and administrative functions, and that’s the point. The goal of automation is to optimize the efficiency of employees and help them focus on more meaningful and interesting aspects of their jobs.</p>
 
-[Get to learn more about RPA Here](https://forum.electroneek.com)
+<h2>Key takeaways</h2>
+
+- RPA is an automation technology that leverages software robots to get rid of repetitive and mundane tasks.
+
+- RPA’s goal is to optimize the efficiency of employees and help them bring more value by focusing on the most meaningful aspects of their jobs.
+
+- An RPA bot is an algorithm that emulates a user’s actions to execute a pre-set scenario-based task.
+  
+
+[Get to learn more about RPA Here](https://forum.electroneek.com/signup)
 
 <h3>Happy Automation</h3>
 
