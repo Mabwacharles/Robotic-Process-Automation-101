@@ -1,21 +1,21 @@
-<h1>What is RPA?</h1><br><br>
+<h1>What is RPA?</h1><br>
 <p>RPA is an automation technology that allows you to get rid of repetitive tasks in a digital environment. To do so, it employs bots, software programs that are trained to mimic human employees actions to perform various assignments. These can be data entry in CRM systems, automated invoicing, text recognition, and more.<br>
 
-The key elements of RPA can be found in the abbreviation.</p><br><br>
+The key elements of RPA can be found in the abbreviation.</p><br>
 
-<h2>R — Robotic</h2><br><br>
-<p>This means that a special algorithm, or a software bot, executes a task. Just like an industrial robot that follows a built-in script to assemble a car, an RPA bot follows a predetermined set of rules to emulate user interactions. For example, it can distribute incoming support tickets among the support team.</p><br><br>
+<h2>R — Robotic</h2><br>
+<p>This means that a special algorithm, or a software bot, executes a task. Just like an industrial robot that follows a built-in script to assemble a car, an RPA bot follows a predetermined set of rules to emulate user interactions. For example, it can distribute incoming support tickets among the support team.</p><br>
 
-<h2>P — Process</h2><br><br>
-<p>This is a sequence of steps that a user performs to accomplish a task. For example, say a support manager needs to handle all the incoming inquiries. They open each inquiry, label them according to the type, send premade responses to the most common ones, and assign some of them which require extra attention to the proper teammates. In the case of RPA, the sequence described above is used to create a scenario for a bot that will perform the task instead of the real person.</p><br><br>
+<h2>P — Process</h2><br>
+<p>This is a sequence of steps that a user performs to accomplish a task. For example, say a support manager needs to handle all the incoming inquiries. They open each inquiry, label them according to the type, send premade responses to the most common ones, and assign some of them which require extra attention to the proper teammates. In the case of RPA, the sequence described above is used to create a scenario for a bot that will perform the task instead of the real person.</p><br>
 
-<h2>A — Automation</h2><br><br>
+<h2>A — Automation</h2><br>
 <p>This implies that the tasks are carried out without the participation of a real person or with minimal interference (known as attended and unattended robotic processes). Thanks to this, RPA can free up plenty of human resources by being able to work 24/7 and manage an enormous amount of data at lightning-fast speeds.<br> 
 
-When done properly, RPA is a powerful technology to augment your human resources, enhance the customer experience, and boost digital transformation.</p><br><br>
+When done properly, RPA is a powerful technology to augment your human resources, enhance the customer experience, and boost digital transformation.</p><br>
 
 <h1>Whats an RPA bot and</h1>
-<h2>what can it do?</h2><br><br>
+<h2>what can it do?</h2><br>
 
 <p>RPA bots are software robots that are often addressed as a digital workforce. From a business perspective, an RPA bot is pretty similar to a regular human employee who works behind a computer. If you use an app that is licensed by the number of seats, the bot will take one of them.<br>
 
@@ -31,9 +31,9 @@ Still, there are some peculiarities that differentiate a bot from a regular work
 
 - It boasts tremendous speed. When it comes to sequences of clicks, using console commands, typing, or data entry, bots are second to none.<br>
 
-- It operates with formal logic. Say you need to find a file named Report for MMDDYY.xlsx. Unlike a bot, a human employee would easily recognize that a file named Report for MMDDYY Updated.xlsx is OK too, while theres no need to waste time on Report for MMDDYY !!!Needs to be redone.xlsx.<br><br>
+- It operates with formal logic. Say you need to find a file named Report for MMDDYY.xlsx. Unlike a bot, a human employee would easily recognize that a file named Report for MMDDYY Updated.xlsx is OK too, while theres no need to waste time on Report for MMDDYY !!!Needs to be redone.xlsx.<br>
 
-<h2>So, what can RPA bots actually do?</h2><br><br>
+<h2>So, what can RPA bots actually do?</h2><br>
 <p>Actually, they can do almost anything if their task is rule-based. Here are some of their basic skills:</p><br>
 
 
@@ -49,11 +49,11 @@ Still, there are some peculiarities that differentiate a bot from a regular work
 
 - Making calculations;<br>
 
-- Typing text and filling in forms, and more.<br><br>
+- Typing text and filling in forms, and more.<br>
 
-<p>The tasks outlined above may seem like they mostly cover clerical and administrative functions, and that’s the point. The goal of automation is to optimize the efficiency of employees and help them focus on more meaningful and interesting aspects of their jobs.</p><br><br>
+<p>The tasks outlined above may seem like they mostly cover clerical and administrative functions, and that’s the point. The goal of automation is to optimize the efficiency of employees and help them focus on more meaningful and interesting aspects of their jobs.</p><br>
 
-[Get to learn more about RPA by navigating to](https://forum.electroneek.com)<br><br><br>
+[Get to learn more about RPA by navigating to](https://forum.electroneek.com)<br>
 
 <h3>Happy Automation</h3>
 
